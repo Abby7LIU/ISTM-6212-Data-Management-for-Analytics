@@ -1,7 +1,9 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
 ## Final Project: Chicago 2016 Taxi Rides Analysis
-
+-- [CLean the data (Jupyter Notebook)](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Part1%20Clean%20the%20data.ipynb)
+-- [Wrangling and Analysis(Jupyter Notebook)](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Part1-Part4.ipynb)
+-- [Presentation Slide](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/ChicagoTaxislides.pdf) 
 ![Project Cover](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project%20Cover.png)
 ### Part 1 - Data Selection and Cleaning
 Identify and describe your dataset, its source, and what appeals to you about it. Acquire the data and perform an initial exploration to determine which themes you wish to explore. Describe the questions you want to be able to answer with the data, any concerns you have about the data, and any challenges you expect to have to overcome.
