@@ -1,3 +1,4 @@
+![GWU cover]
 # ISTM-6212-Data-Management-for-Analytics
 ## Final Project: Chicago 2016 Taxi Rides Analysis
 
@@ -20,3 +21,9 @@ Explore and analyze your data in its wrangled form.  Follow through on the theme
 8. Which payment type does people usually prefer?
 9. What is trip total difference between weekends and weekdays?
 10. What is the relationship between time and pickup location?
+
+### Part 4 - More data (10 points)
+
+Sometimes the most value can be gained from one dataset when it is studied alongside data drawn from other sources.  Identify and describe at least one additional data source that can complement your analysis.  Pull this additional data into your chosen environment and explore at least one more theme you are able to further analyze that depends upon a combination of data from both sources.
+
+In order to gain more information from the chicago taxi dataset, we was able to found another dataset which contains the weather of 30 countries in North America, from 2012 to 2017. To get what we want, we use csvcut to select `Chicago` column and then use xsv to select only 2016's data, save them into `chicago_weather_2016.csv`
