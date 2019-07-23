@@ -1,12 +1,11 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
 ## Individual Project:
-#### [1. Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb)
-__Part 1:__ Markdown basics, navigating files and directories and working with Files and Directories.
-__Part 2:__ Working with output redirection, filters and pipes¶ and counting words with grep.
+#### [1. Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb).     
+#### [2. Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb)
 #### [3. Exercise 3:  Wrangle a dataset using Trifacta Wrangler and Apache Spark. R](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/e3_G44206031.ipynb)
-__Part 1:__ Select a CSV dataset from the OKFN US City Open Data Census. Choose one according to your interest, but try to choose one that's "green" and has somewhere between 10,000 and 1,000,000 rows. Try also to choose a dataset that is less than 50MB (to save us some time and space during grading!).        
-__Part 2:__ Use Spark to load your data and compute basic summary statistics (counts, or average, min/max, and mean). You may borrow liberally from the example we saw in class, just change a few things as appropriate.
+#### [4. Exercise 4: Schema and SQL Queries](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/assignment4-AbbyLiu.ipynb)
+
 
 ## Final Project: Chicago 2016 Taxi Rides Analysis 
 ![Project Cover](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project%20Cover.png)
