@@ -12,9 +12,7 @@ Gain experience loading a CSV dataset into a star schema. Explore the data by wr
 ### Group Projects:
 - [Project 1: Unix Shell Operations(Count, Filters and pipelines)](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/poject1_Abby.ipynb)    
 - [Project 2: Build the shema and explore the dataset using SQL](http://localhost:8888/notebooks/Documents/MSBA/6212/Group%20Project/Project2.ipynb)
-- [Project 3: Using PySpark](http://localhost:8888/notebooks/Documents/MSBA/6212/Group%20Project/project-3.ipynb)       
-Use Spark to process and perform basic analysis on non-relational data, including its DataFrame and SQL interfaces.
-
+- [Project 3: Analysis on non-relational data(including its DataFrame and SQL interfaces) Using PySpark](http://localhost:8888/notebooks/Documents/MSBA/6212/Group%20Project/project-3.ipynb)       
 
 ### Final Project: Chicago 2016 Taxi Rides Analysis 
 ![Project Cover](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project%20Cover.png)
