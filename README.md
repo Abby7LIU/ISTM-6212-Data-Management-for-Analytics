@@ -1,9 +1,18 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
 ### Individual Project:
-- [Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb).     
-- [Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb):Wrangle a data set using two new tools, Trifacta Wrangler and Apache Spark. Results should include a cleaned-up data set and summary statistics.
-- [Exercise 3:  Wrangle a dataset using Trifacta Wrangler and Apache Spark. R](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/e3_G44206031.ipynb): Gain experience loading a CSV dataset into a star schema. Explore the data by writing and executing a number of SQL queries using common syntax and functions and describing your findings.
+- [Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb)         
+Work through as much of the Software Carpentry lesson on the Unix Shell as you can. Run through the Setup section just below, then open a shell from the command line or with a terminal session through Jupyter to run through the exercises.
+
+- [Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb):Gain experience loading a CSV dataset into a database and using SQL to explore its contents. Write and execute a number of SQL queries using common syntax and functions.
+
+- [Exercise 3: Trifacta Wrangler and Apache Spark](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/e3_G44206031.ipynb):     
+Wrangle a data set using two new tools, Trifacta Wrangler and Apache Spark. Results should include a cleaned-up data set and summary statistics.
+
+- [Exercise 4: Schema and SQL](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/assignment4-AbbyLiu.ipynb)    
+Gain experience loading a CSV dataset into a star schema. Explore the data by writing and executing a number of SQL queries using common syntax and functions and describing your findings.
+
+
 
 ### Final Project: Chicago 2016 Taxi Rides Analysis 
 ![Project Cover](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project%20Cover.png)
