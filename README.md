@@ -1,6 +1,6 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
-### Individual Project:
+### Individual Assignments:
 - [Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb)         
 Work through as much of the Software Carpentry lesson on the Unix Shell as you can. Run through the Setup section just below, then open a shell from the command line or with a terminal session through Jupyter to run through the exercises.
 - [Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb)          
@@ -9,6 +9,12 @@ Gain experience loading a CSV dataset into a database and using SQL to explore i
 Wrangle a data set using two new tools, Trifacta Wrangler and Apache Spark. Results should include a cleaned-up data set and summary statistics.
 - [Exercise 4: Schema and SQL](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/assignment4-AbbyLiu.ipynb)    
 Gain experience loading a CSV dataset into a star schema. Explore the data by writing and executing a number of SQL queries using common syntax and functions and describing your findings.
+### Group Projects:
+- [Project 1: Unix Shell Operations(Count, Filters and pipelines)](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/poject1_Abby.ipynb)    
+- [Project 2: Build the shema and explore the dataset using SQL](http://localhost:8888/notebooks/Documents/MSBA/6212/Group%20Project/Project2.ipynb)
+- [Project 3: Using PySpark](http://localhost:8888/notebooks/Documents/MSBA/6212/Group%20Project/project-3.ipynb)       
+Use Spark to process and perform basic analysis on non-relational data, including its DataFrame and SQL interfaces.
+
 
 ### Final Project: Chicago 2016 Taxi Rides Analysis 
 ![Project Cover](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project%20Cover.png)
