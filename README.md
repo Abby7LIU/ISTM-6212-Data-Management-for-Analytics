@@ -21,7 +21,7 @@ Identify and describe your dataset, its source, and what appeals to you about it
 #### Part 2 - Wrangling 
 Based on what you found above, wrangle the data into a format suitable for analysis. This may involve cleaning, filtering, merging, and modeling steps, any and all of which are valid for this project. Describe your process as you proceed, and document any scripts, databases, or other models you develop. Be specific about any key decisions to modify or remove data, how you overcame any challenges, and all assumptions you make about the meaning of variables and their values.
 ![Schema](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Schema.png)
-### Part 3 - Analysis 
+#### Part 3 - Analysis 
 Explore and analyze your data in its wrangled form.  Follow through on the themes you identified in Part 1 with queries or scripts that answer the questions you had in mind.  Be clear about the answers you discover, discussing them and whether the results match your expectations.  Include charts or other visuals that support your analysis.  You may use Tableau, matplotlib, ggplot, or other tools we have not covered in class for visualization (and only for visualization), but be sure to export images from those tools and to include any images properly in your notebook writeup and slides.
 __What we focus on:__
 1. Which time does the customers use taxies most?
