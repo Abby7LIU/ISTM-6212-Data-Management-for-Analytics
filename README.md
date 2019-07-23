@@ -1,6 +1,6 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
-### About the course(Learning Objectives):     
+#### Learning Objectives (From Course Sllybus):     
 - Develop theoretical foundation and practical experience working with a variety of traditional and contemporary data management tools, enabling you to work productively with any product or toolkit they might encounter
 - Gain skill in wrangling and exploring data with a variety of tools inside and outside of databases
 - Understand and be able to develop, deliver, and review reproducible data analyses
