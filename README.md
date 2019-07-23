@@ -1,13 +1,11 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
-## Individual Project:
+### Individual Project:
 - [Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb).     
-- [Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb)
-- [Exercise 3:  Wrangle a dataset using Trifacta Wrangler and Apache Spark. R](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/e3_G44206031.ipynb)
-- [Exercise 4: Schema and SQL Queries](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/assignment4-AbbyLiu.ipynb)
+- [Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb):Wrangle a data set using two new tools, Trifacta Wrangler and Apache Spark. Results should include a cleaned-up data set and summary statistics.
+- [Exercise 3:  Wrangle a dataset using Trifacta Wrangler and Apache Spark. R](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/e3_G44206031.ipynb): Gain experience loading a CSV dataset into a star schema. Explore the data by writing and executing a number of SQL queries using common syntax and functions and describing your findings.
 
-
-## Final Project: Chicago 2016 Taxi Rides Analysis 
+### Final Project: Chicago 2016 Taxi Rides Analysis 
 ![Project Cover](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project%20Cover.png)
 ### Codes and Details
 #### 1. [CLean the data (Jupyter Notebook)](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Part1%20Clean%20the%20data.ipynb)
