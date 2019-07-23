@@ -1,5 +1,10 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
+### About the course(Learning Objectives):     
+- Develop theoretical foundation and practical experience working with a variety of traditional and contemporary data management tools, enabling you to work productively with any product or toolkit they might encounter
+- Gain skill in wrangling and exploring data with a variety of tools inside and outside of databases
+- Understand and be able to develop, deliver, and review reproducible data analyses
+
 ### Individual Assignments:
 - [Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb)         
 Work through as much of the Software Carpentry lesson on the Unix Shell as you can. Run through the Setup section just below, then open a shell from the command line or with a terminal session through Jupyter to run through the exercises.
