@@ -11,8 +11,8 @@ Wrangle a data set using two new tools, Trifacta Wrangler and Apache Spark. Resu
 Gain experience loading a CSV dataset into a star schema. Explore the data by writing and executing a number of SQL queries using common syntax and functions and describing your findings.
 ### Group Projects:
 - [Project 1: Unix Shell Operations(Count, Filters and pipelines)](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/poject1_Abby.ipynb)    
-- [Project 2: Build the shema and explore the dataset using SQL](http://localhost:8888/notebooks/Documents/MSBA/6212/Group%20Project/Project2.ipynb)
-- [Project 3: Analysis on non-relational data(including its DataFrame and SQL interfaces) Using PySpark](http://localhost:8888/notebooks/Documents/MSBA/6212/Group%20Project/project-3.ipynb)       
+- [Project 2: Build the shema and explore the dataset using SQL](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project2.ipynb)
+- [Project 3: Analysis on non-relational data(including its DataFrame and SQL interfaces) Using PySpark](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/project-3.ipynb)       
 
 ### Final Project: Chicago 2016 Taxi Rides Analysis 
 ![Project Cover](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/Project%20Cover.png)
