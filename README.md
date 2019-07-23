@@ -1,10 +1,10 @@
 ![GWU cover](https://github.com/Abby7LIU/DNSC-6211-Programming-for-Business-Analytics/blob/master/GWU.png)
 # ISTM-6212-Data-Management-for-Analytics
 ## Individual Project:
-#### [1. Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb).     
-#### [2. Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb)
-#### [3. Exercise 3:  Wrangle a dataset using Trifacta Wrangler and Apache Spark. R](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/e3_G44206031.ipynb)
-#### [4. Exercise 4: Schema and SQL Queries](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/assignment4-AbbyLiu.ipynb)
+- [Exercise 1: Unix Shell Basics](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/G4420603_HW1.ipynb).     
+- [Exercise 2: SQL Queries Operations](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/A2_Abby(Jingyi)%20Liu.ipynb)
+- [Exercise 3:  Wrangle a dataset using Trifacta Wrangler and Apache Spark. R](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/e3_G44206031.ipynb)
+- [Exercise 4: Schema and SQL Queries](https://github.com/Abby7LIU/ISTM-6212-Data-Management-for-Analytics/blob/master/assignment4-AbbyLiu.ipynb)
 
 
 ## Final Project: Chicago 2016 Taxi Rides Analysis 
